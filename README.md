@@ -15,9 +15,8 @@ A modern, real-time translation application built with React and Vite. Translate
 - 📱 **Responsive Design**: Works perfectly on desktop, tablet, and mobile devices
 - 🎯 **User-friendly Interface**: Clean, intuitive design with visual feedback
 
-## 🚀 Live Demo
-
-[Try the Instant Translator](http://localhost:5173) (when running locally)
+## 📝 Application - demo
+Use the application from here- see the [Instant-Translator](https://instant-translator-c9il.vercel.app/)
 
 ## 🎯 Technologies Used
 
@@ -114,5 +113,4 @@ A modern, real-time translation application built with React and Vite. Translate
 - [Vite](https://vitejs.dev/) for fast build tooling
 
 
-## 📝 Demo
-Use the application from here- see the [Instant-Translator](https://instant-translator-c9il.vercel.app/) file for details.
+
